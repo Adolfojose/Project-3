@@ -1,5 +1,8 @@
 # Project-3
 
+## Collaborators
+Anna Garcia, Adolfo Linarez, Nelson Linarez
+
 ## Requirements
 
 For Project 3, you will work with your group to tell a story using data visualizations. Here are the specific requirements:
